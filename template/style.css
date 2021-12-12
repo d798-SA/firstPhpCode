@@ -1,0 +1,9 @@
+.amnt1{
+    transition: .3s ease-in-out;
+}
+
+
+.amnt1:hover{
+    transform: rotate(-3deg);
+    
+}
